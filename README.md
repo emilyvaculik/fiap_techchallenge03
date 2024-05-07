@@ -50,13 +50,7 @@ O trabalho foi desenvolvido em dupla:
         </p>
         <p>
           Seu objetivo será trazer uma breve análise dessas informações, como foi a organização do banco, as perguntas selecionadas para a resposta do problema e quais seriam as principais ações que o hospital deverá tomar em caso de um novo surto de COVID-19.
-        </p>
-          <p>
-            <b>Dica:</b> Leiam com atenção a base de dados e toda a documentação que o site o PNAD – Covid19 traz, principalmente os dicionários, que ajudam e muito no entendimento da Base de Dados. 
-          </p>
-          <p>
-            <b>Dica 2:</b> Utilizem o que já foi ensinado e consolidado nas outras fases para apresentar a resolução do projeto.
-          </p>
+        </p>       
 </div>
 
 # Seleção de dados
